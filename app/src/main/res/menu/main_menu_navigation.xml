@@ -12,10 +12,6 @@
             android:id="@+id/nav_statistic"
             android:title="Xem Thống kê"
             android:icon="@drawable/ic_baseline_bar_chart_24"/>
-        <item
-            android:id="@+id/profile"
-            android:title="Profile"
-            android:icon="@drawable/ic_baseline_home_24"/>
 
         <item android:title="Quản lý">
             <menu>
@@ -36,10 +32,6 @@
                 </group>
             </menu>
         </item>
-        <item
-            android:id="@+id/ketnoi"
-            android:icon="@drawable/ic_language_black_24dp"
-            android:title="Kết Nối Mạng Xã Hội"/>
         <item
             android:id="@+id/thongtinungdung"
             android:icon="@drawable/ic_info_outline_black_24dp"

@@ -107,11 +107,11 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
                 navigationView.setCheckedItem(item.getItemId());
                 drawerLayout.closeDrawers();
                 break;
-            case R.id.profile:
-                //gọi activity ra trang welcome
-                Intent intent = new Intent(getApplicationContext(),Activityprofile.class);
-                startActivity(intent);
-                break;
+//            case R.id.profile:
+//                //gọi activity ra trang welcome
+//                Intent intent = new Intent(getApplicationContext(),Activityprofile.class);
+//                startActivity(intent);
+//                break;
             case R.id.thongtinungdung:
                 //gọi activity ra trang welcome
                 Intent intentt = new Intent(getApplicationContext(),ThongtinActivity.class);

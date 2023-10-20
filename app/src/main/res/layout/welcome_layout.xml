@@ -7,7 +7,7 @@
     tools:context=".Activities.WelcomeActivity"
     android:orientation="vertical"
     android:padding="30dp"
-    android:background="@color/white"
+    android:background="#A69972"
     >
 
     <ImageView

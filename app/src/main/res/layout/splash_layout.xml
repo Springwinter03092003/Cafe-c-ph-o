@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Activities.SplashActivity"
+    android:background="#A69972"
 
     >
 
@@ -35,7 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center|bottom"
         android:layout_marginBottom="30dp"
-        android:text="Powered by Xuan Dong" />
+        android:text="Powered by Nhóm 5" />
 
 
 </FrameLayout>

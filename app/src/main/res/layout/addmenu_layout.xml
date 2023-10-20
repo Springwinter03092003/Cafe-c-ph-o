@@ -15,7 +15,7 @@
         android:id="@+id/layout_add"
         android:layout_width="match_parent"
         android:layout_height="40dp"
-        android:background="#ff7f50"
+        android:background="#688E9F"
         android:gravity="center_vertical"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -54,7 +54,7 @@
             android:text="OK"
             android:textAllCaps="true"
             android:textSize="30dp"
-            android:background="@drawable/matcha" />
+            android:background="" />
     </LinearLayout>
 
     <LinearLayout
